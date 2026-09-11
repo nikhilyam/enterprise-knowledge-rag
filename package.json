@@ -1,8 +1,8 @@
 {
   "name": "enterprise-knowledge-rag",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Enterprise Smart Knowledge Engine (Semantic RAG System)",
+  "main": "rag.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
