@@ -1,0 +1,10 @@
+ACME CORP INTERNAL POLICY DOCUMENT (REVISED 2026)
+
+HEALTH AND BENEFITS POLICY:
+All full-time employees at ACME Corp are entitled to up to $1,500 per calendar year in dental reimbursements. Requests must be submitted via the HR portal by December 15th of each year.
+
+OFFICE STIPEND POLICY:
+Remote engineers receive a one-time workspace setup stipend of $500. This stipend covers hardware additions such as monitors, ergonomic chairs, and keyboard peripherals. Receipts must be uploaded to the ExpenseApp within 30 days of purchase.
+
+CODE REVIEWS AND SECURITY:
+All production code updates must be peer-reviewed by at least two senior engineers before branch merging. Production keys must never be committed to git.
